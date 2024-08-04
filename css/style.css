@@ -29,7 +29,7 @@ body {
 }
 
 .obstacle {
-    background-image: url(//assets/images/dragon.png);
+    background-image: url(../assets/images/dragon.png);
     background-size: cover;
     width: 166px;
     height: 113px;
